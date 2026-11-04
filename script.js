@@ -9,3 +9,12 @@ const buttons = document.querySelectorAll("button");
 for (const button of buttons) {
   button.addEventListener("click", createParagraph);
 }
+
+let x=1;
+//unary 
+x=-x;
+
+alert(x);
+
+alert(+"5"+ +'5');
+alert("4px" - 2)
