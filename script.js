@@ -17,4 +17,7 @@ x=-x;
 alert(x);
 
 alert(+"5"+ +'5');
-alert("4px" - 2)
+alert(1/0);
+alert( 'the result is ${1 + 2}' );
+
+alert(typeof Symbol("x"));
