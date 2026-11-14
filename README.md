@@ -1,3 +1,5 @@
+# js-exercises-top
+This is the clone of the The Odin Project JavaScript Exercises repo for my own practice.
 <<<<<<< HEAD
 # JavaScript Exercises
 
@@ -35,5 +37,4 @@ The first exercise, `helloWorld`, will walk you through the process in-depth.
 
 To debug functions, you can run the tests in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>, then clicking JavaScript Debug Terminal. You will be able to set breakpoints as you would in the Chrome DevTools debugger. You can run `npm test exerciseName.spec.js` to then execute your code up until your breakpoint and step through your code as necessary. **NOTE**: To take advantage of the debugger, you **MUST** run the script in the debugger terminal, not the bash or zsh terminal.
 =======
-# js-exercises-top
->>>>>>> da1188e55ddefac73d4138e6724bd25d98d257fb
+
